@@ -1,1 +1,8 @@
-p{color: #ff0000;}
+p{color: #ff0000;
+background-color: black ;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;}
+
+body{margin: 20px;
+padding: 30px;}
+
